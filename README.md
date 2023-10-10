@@ -13,4 +13,4 @@ If you're a recruiter and you're interested in my profile, you should know that 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmarincode)](https://github.com/anuraghazra/github-readme-stats)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=social&logo=mysql&logoColor=white)
