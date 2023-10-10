@@ -8,6 +8,7 @@ If you're a recruiter and you're interested in my profile, you should know that 
 - 💻 HTML, CSS, JS
 - ⚛ React / Node JS
 - Tailwind
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmarincode)](https://github.com/anuraghazra/github-readme-stats)
